@@ -3,8 +3,7 @@ Launch any installed Android emulator on windows with the command line without o
 
 ### Usage:
 
-Open a command line (Win + R) and type `cmd`
-Use the command below:
+Open a command line (Win + R) and type `cmd` then use the command below:
 
 ```
 start.bat emulatorName
