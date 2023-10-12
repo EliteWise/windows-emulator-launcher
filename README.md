@@ -7,5 +7,5 @@ Open a command line (Win + R) and type `cmd`
 Use the command below:
 
 ```
-start-android-emulator.bat
+start.bat emulatorName
 ```
