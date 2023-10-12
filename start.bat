@@ -24,7 +24,7 @@ echo Available emulators:
 if "%~1"=="" (
     echo.
     echo Please specify the name of the emulator to launch.
-    echo Example: start-android-emulator.bat EmulatorName
+    echo Example: start.bat EmulatorName
     exit /b
 )
 
