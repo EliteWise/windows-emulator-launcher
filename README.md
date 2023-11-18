@@ -6,5 +6,6 @@ Launch any installed Android emulator on windows with the command line without o
 Open a command line (Win + R) and type `cmd`, then use the command below:
 
 ```
+start.bat (to list all the available emulators)
 start.bat emulatorName
 ```
